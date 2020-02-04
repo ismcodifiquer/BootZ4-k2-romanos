@@ -35,7 +35,7 @@ def contarParentesis(numRomano):
             res.append(numP, grupo[numP:])
             ix += numP
     return res
-    
+                                
     
         
 
